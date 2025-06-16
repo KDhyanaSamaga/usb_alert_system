@@ -1,0 +1,3 @@
+pywin32    # For Windows
+pyudev   # For Linux
+plyer    # For notifications
