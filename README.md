@@ -128,7 +128,7 @@ Feel free to fork the repository and submit your changes.
 
 ## 📬 Contact
 
-For support or collaboration, contact **\[Your Name]** at **\[[your\_email@example.com](mailto:your_email@example.com)]**.
+For support or collaboration, contact **\[Your Name]** at **\[[your\_email@example.com](kdhyanasamaga@gmail.com)]**.
 
 ```
 
